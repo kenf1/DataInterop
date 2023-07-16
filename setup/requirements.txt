@@ -1,0 +1,7 @@
+pandas
+polars
+parquet
+pyarrow
+
+ipython
+ipykernel
