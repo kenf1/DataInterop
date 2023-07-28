@@ -207,3 +207,5 @@ cython_debug/
 .DS_Store
 data
 renv
+src/base.py
+src/Scrape.ipynb
